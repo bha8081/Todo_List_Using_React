@@ -41,4 +41,4 @@ function TodoList({ editTodo, deleteTodo, todoFinished }) {
     );
 }
 
-export default TodoList;
+export default TodoList
