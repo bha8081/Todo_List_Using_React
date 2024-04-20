@@ -22,4 +22,4 @@ function Todo({todoData, isFinished, changeFinished, onDelete, onEdit}) {
     )
 }
 
-export default Todo;
+export default Todo
